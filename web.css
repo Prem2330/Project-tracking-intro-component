@@ -1,0 +1,169 @@
+.square{
+  background-color: #ffffff;
+
+ margin-top: 8%;
+ margin-left: 6%;
+ margin-right: 10%;
+ margin-bottom: 8%;
+
+
+}
+.p{
+  color:#ffffff;
+font-weight:900;
+position: absolute;
+margin-left: 8px;
+margin-top: -0.5px;
+font-size: 13px;
+}
+
+.LOGIN:hover{
+  text-decoration: underline;
+}
+
+h1{
+  position: absolute;
+  right: 57%;
+  top: 40%;
+
+font-size: 50px;
+}
+
+h3{
+  position: absolute;
+  top: 54%;
+  right: 62%;
+  font-size: 20px;
+  color: #A9A9A9;
+}
+
+body{
+  background-color: 	#F0F0F0;
+  position: absolute;
+  z-index: 2;
+}
+
+.lap{
+  width: 911px;
+  height: 470px;
+  position:absolute;
+  left: 38%;
+  top: 24%;
+  z-index: 1;
+  object-fit: cover;
+  object-position: 170px;
+}
+
+.curve
+{
+  background-color: #eaf1f8;
+  position: absolute;
+  margin-left: 43%;
+  border-radius: 0px 0px 0px 50px;
+  z-index: 0;
+}
+
+.first{
+    font-family: 'Barlow', sans-serif;
+}
+
+.logo{
+  position: absolute;
+  top: 16%;
+  left: 13%;
+
+
+}
+
+.rect{
+  background-color: #000000;
+  height: 20px;
+  width: 50px;
+  position: absolute;
+  margin-top: 17.2%;
+  margin-left: 7%;
+  text-align: center;
+  border-radius: 15px;
+
+}
+
+.mono{
+  position: absolute;
+  top: 36.7%;
+  left: 18%;
+    font-family: 'Barlow', sans-serif;
+    color: #A9A9A9;
+    letter-spacing: 5px;
+}
+
+.PRODUCT
+{
+  position: absolute;
+  right: 24%;
+  top:15%;
+  z-index: 2;
+  word-spacing: 24px;
+
+}
+.FEATURES
+{
+  position: absolute;
+  right: 17%;
+  top:15%;
+  z-index: 2;
+  word-spacing: 24px;
+
+}
+.PRICING
+{
+  position: absolute;
+  right: 11%;
+  top:15%;
+  z-index: 2;
+  word-spacing: 24px;
+
+}
+
+
+.PRICING:hover
+{
+  text-decoration: underline;
+}
+.FEATURES:hover{
+  text-decoration: underline;
+}
+.PRODUCT:hover{
+    text-decoration: underline;
+}
+.LOGIN{
+  position: absolute;
+  right: 4%;
+  top:15%;
+  z-index: 2;
+  word-spacing: 24px;
+color: 	#C0C0C0	;
+}
+.but{
+  position: absolute;
+  width: 10%;
+}
+
+.btn{
+  position: absolute;
+  top: 65%;
+  left:13%;
+}
+
+.to{
+  position:absolute;
+  top: 65.7%;
+  left: 27%;
+  letter-spacing: 4px;
+  color: #A9A9A9;
+}
+
+.attribution{
+  position: absolute;
+  top: 0%;
+  left: 45%;
+}
